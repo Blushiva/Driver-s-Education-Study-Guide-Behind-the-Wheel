@@ -35,3 +35,15 @@ This video is intended to help guide Minnesota state residents through the proce
 We want residents to know what to expect when they arrive for their test, and what happens during and after the test.
 
 [Intro - What to Expect on the Road Test](https://www.youtube.com/watch?v=n1KduIOwPHs)
+
+### Parking Videos
+
+[Easy Parking 90 degrees Backing Up - Version 2.0](https://www.youtube.com/watch?v=VSUqShilV44)
+
+A video on how to park 90 degrees backing up easily (bay parking).
+
+[]()
+[]()
+[]()
+[]()
+[]()

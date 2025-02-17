@@ -29,6 +29,7 @@ Make sure you can locate and understand how to use these items.  It will be part
 
 ## 
 
+### DMV VIDEOS
 
 This video is intended to help guide Minnesota state residents through the process of preparing for and successfully passing the driver’s road test. 
 We want residents to know what to expect when they arrive for their test, and what happens during and after the test.

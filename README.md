@@ -4,7 +4,7 @@
 
  ## Things to do to prepare for your test.
 
- - MAKE SURE YOU ARE DRIVING DAILY. You should be very comfortable behind the wheel.
+ - MAKE SURE YOU ARE DRIVING DAILY. You should be very comfortable behind the wheel. Driving daily builds confidence in the new driver and also builds their skill set quicker.  
  - Drive to practice your driving.  Not just to go to the same place you always go.  Example: school
  - Make Sure to practice your parking Consistantly.  You should be able to park like a professional and not be nervous about it.
  - Make sure that you can explain all the equipment to the examiner on the test.

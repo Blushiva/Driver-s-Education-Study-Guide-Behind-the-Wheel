@@ -4,8 +4,12 @@
 
  ## Things to do to prepare for your test.
 
- - MAKE SURE YOU ARE DRIVING DAILY.
+ - MAKE SURE YOU ARE DRIVING DAILY. You should be very comfortable behind the wheel.
+ - Drive to practice your driving.  Not just to go to the same place you always go.  Example: school
  - Make Sure to practice your parking Consistantly.  You should be able to park like a professional and not be nervous about it.
+ - Make sure that you can explain all the equipment to the examiner on the test.
+ - Play the Intersection Game with your co-driver
+ - Play the Sign Game with your co-driver
  - 
 
 ## Checklist for Road test
@@ -27,14 +31,12 @@ You will be expected to know these things on the vehicle and you will have to de
 
 Make sure you can locate and understand how to use these items.  It will be part of the test.  If you miss three you will fail your test and the road test will be canceled. 
 
-## 
+## Driving Games
 
-### DMV VIDEOS
+### Intersection Game
 
-This video is intended to help guide Minnesota state residents through the process of preparing for and successfully passing the driver’s road test. 
-We want residents to know what to expect when they arrive for their test, and what happens during and after the test.
+### Sign Game
 
-[Intro - What to Expect on the Road Test](https://www.youtube.com/watch?v=n1KduIOwPHs)
 
 ### Parking 
 
@@ -52,3 +54,11 @@ This is a fantastic video on Parallel Parking and 90-degree back in.
 []()
 []()
 []()
+
+### DMV VIDEOS
+
+This video is intended to help guide Minnesota state residents through the process of preparing for and successfully passing the driver’s road test. 
+We want residents to know what to expect when they arrive for their test, and what happens during and after the test.
+
+[Intro - What to Expect on the Road Test](https://www.youtube.com/watch?v=n1KduIOwPHs)
+

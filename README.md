@@ -1,6 +1,12 @@
 # Driver's Education Study Guide Behind the Wheel
 
- This is an extensive study guide written for people who are going to be taking the driving test.  This was written to prepare the person for 
+ This is an extensive study guide written for people who are going to be taking the driving test.  This was written to prepare the person for the road test.
+
+ ## Things to do to prepare for your test.
+
+ - MAKE SURE YOU ARE DRIVING DAILY.
+ - Make Sure to practice your parking Consistantly.  You should be able to park like a professional and not be nervous about it.
+ - 
 
 ## Checklist for Road test
 
@@ -19,7 +25,7 @@ You will be expected to know these things on the vehicle and you will have to de
 - Mirrors (Interior/Exterior)
 - Fuel Gauge
 
-Make sure you can locate and understand how to use these items.  It will be part of the test.
+Make sure you can locate and understand how to use these items.  It will be part of the test.  If you miss three you will fail your test and the road test will be canceled. 
 
 ## 
 

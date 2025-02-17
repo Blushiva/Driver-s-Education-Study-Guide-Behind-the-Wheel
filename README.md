@@ -2,6 +2,8 @@
 
  This is an extensive study guide written for people who are going to be taking the driving test.  This was written to prepare the person for the road test. The links are to videos that will help assist you in learning driving.
 
+ ## Things you can do to
+
  ## Things to do to prepare for your test.
 
  - MAKE SURE YOU ARE DRIVING DAILY. You should be very comfortable behind the wheel. Driving daily builds confidence in the new driver and also builds their skill set quicker.  

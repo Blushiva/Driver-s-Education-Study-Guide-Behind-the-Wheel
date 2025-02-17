@@ -22,6 +22,8 @@ Start with simpler driving scenarios and gradually introduce more complex situat
 Regularly check the car's condition, including tire pressure, lights, and fluid levels, to ensure safe operation. 
 - Open communication:
 Have open conversations about driving under the influence of alcohol or drugs, fatigue, and the importance of reporting any concerns.
+- Practice makes a (nearly) perfect driver. No one becomes good at something after doing it for just a few hours. Your child needs at least two hours of practice driving each week for six months to reach a level of proficiency. Try to have them drive a minimum of 3 times a week.
+- The dangers of texting. Hundreds of people die every month because a driver got distracted while behind the wheel. Teach your child to keep their eyes on the road and their minds focused.
 
 To Prepare them before their first behind the wheel:
  - BlindSpots understand them

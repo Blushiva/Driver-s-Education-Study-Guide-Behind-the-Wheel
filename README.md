@@ -2,7 +2,14 @@
 
  This is an extensive study guide written for people who are going to be taking the driving test.  This was written to prepare the person for the road test. The links are to videos that will help assist you in learning driving.
 
- ## Things you can do to
+ ## Things you can do to Prepare for a new driver as a co-driver
+
+
+ - BlindSpot
+ - Make sure the driver leans in and hugs wheel before looking over their shoulder.
+ - Adjusting of Mirrors
+ - Equipment Demonstration
+ - Have the new driver drive for a minimum of 20 hours before taking a behind the wheel lesson. Don't waste your time with a professional instructor driving around a block.  That time is needed to give feedback to the student and instruct them on defensive driving, positioning and control of car.
 
  ## Things to do to prepare for your test.
 

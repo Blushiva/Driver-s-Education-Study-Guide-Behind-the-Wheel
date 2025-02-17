@@ -42,6 +42,8 @@ Make sure you can locate and understand how to use these items.  It will be part
 
 ## LANE CHANGE AND BLIND SPOTS
 
+To safely change lanes, you should: turn on your turn signal to indicate your intention, check your rearview and side mirrors, check your blind spot by looking over your shoulder on the lane you are merging into, and then smoothly move into the desired lane while maintaining a steady speed; remember to turn off your signal once you are fully in the new lane. (DO NOT TAKE FOOT OFF GAS AND LEAN INTO WHEEL WHEN LOOKING OVER SHOULDER.)
+
 The Lane Change is one of the most important skills to learn.  This teaches you to look in your blind spot. It keeps you from hitting other vehicles that may be riding your blindspot.  It makes you aware that cars can hide in that section in the rear window over your shoulder on your right and left side. These cars will not been seen in your mirrors.  
 
 [What Are Blind Spots in Driving? Tips on How to Avoid Them](https://driven2drive.com/blog/blind-spots-in-driving-what-they-are-and-how-to-avoid-them/)

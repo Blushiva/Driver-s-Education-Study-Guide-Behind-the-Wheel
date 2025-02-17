@@ -114,7 +114,9 @@ We want residents to know what to expect when they arrive for their test, and wh
 
 [Intro - What to Expect on the Road Test](https://www.youtube.com/watch?v=n1KduIOwPHs)
 
-### The EAGAN DMV Course DO NOT BE LIKE THIS GUY!
+### The EAGAN DMV Course VIDEO EVERYONE TALKS ABOUT
+
+#### DO NOT BE LIKE THIS GUY!
 
 I have had so many students want me to teach them how to pass in Eagen.  Like Eagan is some cursed area that only the wise can pass the test.  Then you have the people who post videos like below saying you will pass if you memorize the course.  NOT TRUE!!!!!  He doesn't understand how to drive in a busy area with lots of foot traffic.  He does't understand control of his vehicle or how to maintain a correct speed because he didn't practice driving in a residential area on a grid system.  He was probably only driving on faster roads over 35 and didn't understand lane maintenance and reading the lines on the road as well as the signs at all intersections.  He can't even maintain a consistant speed while driving to these conditions.  This video is not helpful to you guys.  Listen to the experts and practice driving in areas you feel uncomfortable in.  Go into Downtown Minneapolis and Downtown St. Paul.  You will get much better experiance and be able to actually drive any course and pass with flying colors.  The key is practice.
 

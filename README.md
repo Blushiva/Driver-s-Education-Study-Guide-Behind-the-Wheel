@@ -35,8 +35,17 @@ Make sure you can locate and understand how to use these items.  It will be part
 
 ### Intersection Game
 
+With your Co-driver have them ask you where the next intersection is.  This is good to practice to make you aware of your surroundings and scan ahead for issues that may be on the road. Ask them to tell you what they are seeing on the road.
+
+Look for these landmarks on the road:  
+- Lines breaking and then starting again
+- Street signs
+- traffic lights
+- vehicles entering or exiting
+
 ### Sign Game
 
+Have the new driver read the signs as you drive to them.  
 
 ### Parking 
 

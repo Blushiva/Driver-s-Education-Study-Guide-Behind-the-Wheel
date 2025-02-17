@@ -40,6 +40,13 @@ You will be expected to know these things on the vehicle and you will have to de
 
 Make sure you can locate and understand how to use these items.  It will be part of the test.  If you miss three you will fail your test and the road test will be canceled. 
 
+## LANE CHANGE AND BLIND SPOTS
+
+The Lane Change is one of the most important skills to learn.  This teaches you to look in your blind spot. It keeps you from hitting other vehicles that may be riding your blindspot.  It makes you aware that cars can hide in that section in the rear window over your shoulder on your right and left side. These cars will not been seen in your mirrors.  
+
+[What Are Blind Spots in Driving? Tips on How to Avoid Them](https://driven2drive.com/blog/blind-spots-in-driving-what-they-are-and-how-to-avoid-them/)
+
+
 ## Driving Games
 
 ### Intersection Game

@@ -31,6 +31,9 @@ To Prepare them before their first behind the wheel:
  - Equipment Demonstration
  - Have the new driver drive for a minimum of 20 hours before taking a behind the wheel lesson. Don't waste your time with a professional instructor driving around a block.  That time is needed to give feedback to the student and instruct them on defensive driving, positioning and control of car.
 
+ [Parent Guide for Coaching
+Teen Drivers](https://injurycenter.umich.edu/wp-content/uploads/2020/07/parent_guide.pdf)
+
  ## Things to do to prepare for your test.
 
  - MAKE SURE YOU ARE DRIVING DAILY. You should be very comfortable behind the wheel. Driving daily builds confidence in the new driver and also builds their skill set quicker.  

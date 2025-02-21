@@ -7,6 +7,17 @@ In lesson one we will cover the basics of driving.  This is why it's important t
 ## SIPDE
  Scan Identify Predict Decide Execute
 
+ SIPDE is a five step process that includes the following:
+
+- SEARCH the roadway and the off-road area  20 -30 seconds (about a block to a block and a half) ahead for information that can help you plan your path of travel. Use a systematic search pattern to gather information. First search the road ahead, then to the sides, then glance in your rearview and side mirrors.
+- IDENTIFY objects or conditions with 12-15 seconds ahead that could interfere with your path of travel. To identify important information as a driver, you must do more than just LOOK. You must think about what you are looking for; things like stalled cars on the side of the road, pedestrians waiting to cross the street, and cars coming up too fast behind you are all important information.
+- PREDICT what actions or changes in conditions on or near the roadway could increase your level of risk. As you search the roadway and see the positions of the vehicles and pedestrians, try to predict what you would do in certain circumstances. For instance, the car behind you that is coming up too fast might not be able to stop. You need to think – before that car rear-ends you – in order to make a decision to move to another lane to avoid a crash.
+- DECIDE what action or actions to take (such as reduce speed, increase speed,  brake or steer clear) 4 to 5 seconds ahead of time to control or reduce risk. Once you have identified a potential threat you can decide how best to minimize the risk of a collision. Keep in mind most situations allow you a choice of actions, such as moving to another lane to avoid a rear-end collision, or taking the ditch to the right rather than taking a head-on hit.
+- Execute your decision. The final step is to execute the decision you have made. In most instances, executing a decision simply means making a routine maneuver.
+Practicing the SIPDE process during your driver training process will help new drivers become smarter, more defensive drivers. If you have a new teen driver and want to make their behind the wheel practice less stressful and more successful,
+
+
+
  ## Three Second Rule
 
 The 3 second rule is the ultimate thing you can do when driving defensively.  It creates a bubble of saety between yourself and all other vehicles.  It allows you to 

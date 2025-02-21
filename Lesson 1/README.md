@@ -57,6 +57,8 @@ You can also watch this video to learn more about the three-second rule:
 
 ## Lane Change
 
+### REMEBER LEAN INTO YOUR WHEEL WHEN LOOKING OVER YOUR SHOULDER
+
 Changing Lanes: What To Do
 Step #1: Turn on your turn signal.
 Turn signals are the only way you can let other drivers know that you'll be changing lanes. Traffic School Online reports that you are legally required to activate your turn signals at least 100 feet before making your move. Using your blinker to signal your intent to change lanes, merge into traffic, and even turn into a parking spot can help keep you safe and ticket-free. Plus, when you're in a traffic jam, using your turn signal may be the only way to "ask" another driver to let you in ahead of them.

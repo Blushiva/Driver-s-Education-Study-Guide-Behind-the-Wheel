@@ -35,6 +35,8 @@ Why is the three-second rule important?
 - The three-second rule gives you time to recognize a hazard and respond safely. This can help you avoid rear-end collisions, which can be more serious than you might think. 
 You can also watch this video to learn more about the three-second rule:
 
+[What Is A 3-Second Rules? Learn Safe Following Distance | Pass Driving test](https://www.youtube.com/watch?v=3a1gd4f4uQM)
+
 
  ## Proper Lane Usage
 

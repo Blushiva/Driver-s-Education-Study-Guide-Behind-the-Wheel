@@ -61,4 +61,15 @@ The Lane Change is one of the most important skills to learn.  This teaches you 
 
 ## Parallel Parking
 
-## 90* Back-In
+### Parking 
+
+I cannot emphasis enough that parking should be something that feels like a second skin to you.  You should practice it until you are so comfortable that you can do it in your sleep.  In this section I will cover parking and the videos behind it.
+
+[Easy Parking 90 degrees Backing Up - Version 2.0](https://www.youtube.com/watch?v=VSUqShilV44)
+
+A video on how to park 90 degrees backing up easily (bay parking).
+
+[Parallel Parking and 90-Degree Backing Skill](https://www.youtube.com/watch?v=aSbVbTvTSFo)
+
+This is a fantastic video on Parallel Parking and 90-degree back in.
+

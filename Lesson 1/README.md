@@ -60,13 +60,14 @@ You can also watch this video to learn more about the three-second rule:
 ### REMEBER LEAN INTO YOUR WHEEL WHEN LOOKING OVER YOUR SHOULDER
 
 Changing Lanes: What To Do
+
 Step #1: Turn on your turn signal.
 Turn signals are the only way you can let other drivers know that you'll be changing lanes. Traffic School Online reports that you are legally required to activate your turn signals at least 100 feet before making your move. Using your blinker to signal your intent to change lanes, merge into traffic, and even turn into a parking spot can help keep you safe and ticket-free. Plus, when you're in a traffic jam, using your turn signal may be the only way to "ask" another driver to let you in ahead of them.
 
 Step #2: Check your rearview and side mirrors.
 After activating your blinker, take a look into your rearview and side mirror to ensure you have enough space to make the lane change. If there's a car in the lane you're merging into, wait until you can see the entire vehicle (wheels included) and a few feet of pavement in front of it in your rearview mirror.
 
-At this point, if the other car is going at or below the same speed as you are, you should have enough room to change lanes. It's essential to keep an eye on the speed of the car you're trying to merge ahead of — if they're accelerating, you are better off letting them pass you before changing lanes (as the space for your car is quickly closing).
+- At this point, if the other car is going at or below the same speed as you are, you should have enough room to change lanes. It's essential to keep an eye on the speed of the car you're trying to merge ahead of — if they're accelerating, you are better off letting them pass you before changing lanes (as the space for your car is quickly closing).
 
 While some states allow drivers to speed when passing slow vehicles, doing so isn't always in your best interest. Speeding is one of the fastest ways to increase your risk of an accident.
 

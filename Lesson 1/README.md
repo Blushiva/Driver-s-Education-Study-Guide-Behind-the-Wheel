@@ -4,6 +4,24 @@ In lesson one we will cover the basics of driving.  This is why it's important t
 
 ## Vehicle Controls
 
+You will be expected to know these things on the vehicle and you will have to demonstrate them to the examiner.  
+
+- Seat Adjustment
+- Seat Belt
+- Emergency Parking Break
+- Headlights High and Low beam
+- Hazard Warning Lights (4 way Flashers)
+- Blinkers/Directionals/Signal Lights
+- Horn
+- Windsheil Wipers
+- Windsheild Defrost (Make sure you understand the difference between the rear and front defroast.)
+- Fan Controls
+- Mirrors (Interior/Exterior)
+- Fuel Gauge
+
+Make sure you can locate and understand how to use these items.  It will be part of the test.  If you miss three you will fail your test and the road test will be canceled. 
+
+
 ## SIPDE
  Scan Identify Predict Decide Execute
 

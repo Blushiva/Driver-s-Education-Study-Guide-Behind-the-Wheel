@@ -55,6 +55,28 @@ You can also watch this video to learn more about the three-second rule:
 
 [What Is A 3-Second Rules? Learn Safe Following Distance | Pass Driving test](https://www.youtube.com/watch?v=3a1gd4f4uQM)
 
+## Lane Change
+
+Changing Lanes: What To Do
+Step #1: Turn on your turn signal.
+Turn signals are the only way you can let other drivers know that you'll be changing lanes. Traffic School Online reports that you are legally required to activate your turn signals at least 100 feet before making your move. Using your blinker to signal your intent to change lanes, merge into traffic, and even turn into a parking spot can help keep you safe and ticket-free. Plus, when you're in a traffic jam, using your turn signal may be the only way to "ask" another driver to let you in ahead of them.
+
+Step #2: Check your rearview and side mirrors.
+After activating your blinker, take a look into your rearview and side mirror to ensure you have enough space to make the lane change. If there's a car in the lane you're merging into, wait until you can see the entire vehicle (wheels included) and a few feet of pavement in front of it in your rearview mirror.
+
+At this point, if the other car is going at or below the same speed as you are, you should have enough room to change lanes. It's essential to keep an eye on the speed of the car you're trying to merge ahead of — if they're accelerating, you are better off letting them pass you before changing lanes (as the space for your car is quickly closing).
+
+While some states allow drivers to speed when passing slow vehicles, doing so isn't always in your best interest. Speeding is one of the fastest ways to increase your risk of an accident.
+
+Step #3: Look over your shoulder to check your blind spot.
+Even after checking your mirrors, there's a spot behind the car that you can't see – and that spot could easily contain a car or motorcycle! Immediately after checking your mirrors, look over your right shoulder to ensure you don't miss anything. Always remember when checking your mirrors and blind spot that it's easy to miss smaller objects, like cyclists, so keep your eyes peeled. Additionally, you can better avoid getting hit by not lingering in other drivers' blind spots.
+
+Step #4: Change lanes!
+Once you've determined that it is safe to change lanes, it's time to go for it! Maintain your speed and glide into the lane smoothly.
+
+Step #5: Turn your turn signal off.
+Don't be that person driving down the highway with your turn signal blinking. As soon as you're in your desired lane, turn off your blinker.
+
 
  ## Proper Lane Usage
 

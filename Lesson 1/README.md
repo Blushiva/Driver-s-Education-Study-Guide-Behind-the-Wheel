@@ -37,7 +37,8 @@ The 3 second rule is the ultimate thing you can do when driving defensively.  It
  - white lines
  - solid lines
  - solid on one side dashed on the other
- - 
+ - crosswalks 
+ - bike lanes
 
  ## Defensive driving
 

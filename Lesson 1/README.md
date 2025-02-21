@@ -1,6 +1,6 @@
 # Lesson 1 Basic Driving
 
-In lesson one we will cover the basics of driving.  This is why it's important to have a consistent driving plan before your first lesson.  You should be comfortable in the car and able to take direction while driving.  You should also have a minimum of 15-20 hours of drive time before your first lesson.  
+In lesson one we will cover the basics of driving.  This is why it's important to have a consistent driving plan before your first lesson.  You should be comfortable in ANY car and able to take direction while driving.  You should also have a minimum of 15-20 hours of drive time before your first lesson.  
 
 ## Vehicle Controls
 

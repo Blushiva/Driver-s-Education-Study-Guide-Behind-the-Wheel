@@ -83,6 +83,8 @@ Don't be that person driving down the highway with your turn signal blinking. As
 
  ## Proper Lane Usage
 
+ [How To Navigate Different Types Of Lanes](https://driversed.com/driving-information/driving-techniques/use-of-lanes/)
+
  ## Left turns
 
  ## Right Turns

@@ -20,7 +20,20 @@ Practicing the SIPDE process during your driver training process will help new d
 
  ## Three Second Rule
 
-The 3 second rule is the ultimate thing you can do when driving defensively.  It creates a bubble of saety between yourself and all other vehicles.  It allows you to 
+The three-second rule is a driving technique that recommends maintaining a safe following distance between your vehicle and the one ahead. The rule helps you avoid rear-ending the car in front of you if they brake suddenly. 
+
+How to use the three-second rule: 
+- Choose a roadside marker, like a tree or sign
+Note when the car ahead passes the marker
+- Count how many seconds it takes you to pass the same marker
+If it's less than three seconds, increase your following distance
+
+When to increase the following distance: 
+- You should increase the following distance when driving in adverse conditions, such as heavy traffic or bad weather.
+  
+Why is the three-second rule important?
+- The three-second rule gives you time to recognize a hazard and respond safely. This can help you avoid rear-end collisions, which can be more serious than you might think. 
+You can also watch this video to learn more about the three-second rule:
 
 
  ## Proper Lane Usage

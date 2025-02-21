@@ -83,6 +83,28 @@ Don't be that person driving down the highway with your turn signal blinking. As
 
  ## Proper Lane Usage
 
+ Proper lane usage means driving in the correct lane for the current conditions, and following the rules of the road. 
+
+General lane usage:  
+- Drive in the lane with the smoothest traffic flow.
+- Use the right lane for slower speeds, entering or exiting traffic, or turning right.
+- Use the left lane for passing, turning left, or going faster.
+- After passing, return to the right lane.
+- Don't weave between lanes.
+  
+Passing:
+- Use the left lane to pass other vehicles while obeying the speed limit. 
+- If you're following a slower vehicle, let them pass safely. 
+- If you spot someone blocking the left lane, don't pass on the right. 
+
+Speed: 
+- If other drivers are going faster than the speed limit, slow down and move to the right.
+- Never exceed the legal speed limit.
+
+Other tips: 
+- Keep other vehicles out of your blind spots.
+- Position your vehicle to keep up with the traffic flow.
+
  [How To Navigate Different Types Of Lanes](https://driversed.com/driving-information/driving-techniques/use-of-lanes/)
 
  ## Left turns

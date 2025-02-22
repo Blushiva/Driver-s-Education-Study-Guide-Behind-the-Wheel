@@ -83,7 +83,7 @@ Don't be that person driving down the highway with your turn signal blinking. As
 
  ## Proper Lane Usage
 
- ### Unmarked streets have 4 lanes DO NOT DRIVE in both lanes parking/ driving lane
+ ### Unmarked streets have 4 lanes DO NOT DRIVE in both lanes (parking/ driving lane)
 
  Proper lane usage means driving in the correct lane for the current conditions, and following the rules of the road. 
 

@@ -36,7 +36,7 @@ Practicing the SIPDE process during your driver training process will help new d
 
 ## Driving Games
 
-The idea of the driving game is to make you aware of your surroundings and get you into the habit early of reading your signs and the lines on the road and making you aware of all the intersections on the road. 
+The idea of the driving game is to make you aware of your surroundings and get you into the habit early of reading your signs and the lines on the road and making you aware of all the intersections on the road. You will build the skill of SIPDE and practice defensive driving if you practice this while driving.
 
 ### Intersection Game
 

@@ -44,7 +44,7 @@ How to use the three-second rule:
 - Choose a roadside marker, like a tree or sign
 Note when the car ahead passes the marker
 - Count how many seconds it takes you to pass the same marker
-If it's less than three seconds, increase your following distance
+If it's less than three seconds, increase your following distance decrease your speed.
 
 When to increase the following distance: 
 - You should increase the following distance when driving in adverse conditions, such as heavy traffic or bad weather.
@@ -82,6 +82,8 @@ Don't be that person driving down the highway with your turn signal blinking. As
 
 
  ## Proper Lane Usage
+
+ ### Unmarked streets have 4 lanes DO NOT DRIVE in both lanes parking/ driving lane
 
  Proper lane usage means driving in the correct lane for the current conditions, and following the rules of the road. 
 

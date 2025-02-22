@@ -1,6 +1,6 @@
 # Driver's Education Study Guide Behind the Wheel
 
- This is an extensive study guide written for people who are going to be taking the driving test.  This was written to prepare the person for the road test. The links are to videos that will help assist you in learning driving.
+ This is an extensive study guide written for people who are going to be taking the driving test.  This was written to prepare the person for the Minnesota road test. The links are to videos that will help assist you in learning driving.
 
  
 

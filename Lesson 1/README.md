@@ -112,6 +112,8 @@ Other tips:
  ## Left turns
 
 [How to Turn Left at Intersections - Unprotected Left Turns](https://www.youtube.com/watch?v=ZdSCgNm4atQ)
+
+[Left Turns - How to Make Left Turns for Beginners: Left Turn Speed, Traffic Checks, Steering Control](https://www.youtube.com/watch?v=QEds_x1c6Ow)
  ## Right Turns
 
  ## Proper Stopping and Distance

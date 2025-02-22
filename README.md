@@ -33,34 +33,6 @@ You will be expected to know these things on the vehicle and you will have to de
 
 Make sure you can locate and understand how to use these items.  It will be part of the test.  If you miss three you will fail your test and the road test will be canceled. 
 
-## LANE CHANGE AND BLIND SPOTS
-
-To safely change lanes, you should: 
-- turn on your turn signal to indicate your intention, 
-- check your rearview and side mirrors, check your blind spot by looking over your shoulder on the lane you are merging into, and then smoothly move into the desired lane while maintaining a steady speed;
-- remember to turn off your signal once you are fully in the new lane. (DO NOT TAKE FOOT OFF GAS AND LEAN INTO WHEEL WHEN LOOKING OVER SHOULDER.)
-
-The Lane Change is one of the most important skills to learn.  This teaches you to look in your blind spot. It keeps you from hitting other vehicles that may be riding your blindspot.  It makes you aware that cars can hide in that section in the rear window over your shoulder on your right and left side. These cars will not been seen in your mirrors.  
-
-[What Are Blind Spots in Driving? Tips on How to Avoid Them](https://driven2drive.com/blog/blind-spots-in-driving-what-they-are-and-how-to-avoid-them/)
-
-
-## Driving Games
-
-### Intersection Game
-
-With your Co-driver have them ask you where the next intersection is.  This is good to practice to make you aware of your surroundings and scan ahead for issues that may be on the road. Ask them to tell you what they are seeing on the road.
-
-Look for these landmarks on the road:  
-- Lines breaking and then starting again
-- Street signs
-- traffic lights
-- vehicles entering or exiting
-  
-
-### Sign Game
-
-Have the new driver read the signs as you drive to them.  
 
 ### Parking 
 

@@ -111,6 +111,24 @@ Other tips:
 
  ## Left turns
 
+ To take a proper left turn, signal your intention early, move into the left lane if available, slow down, come to a complete stop if necessary, check for oncoming traffic carefully, and turn when it is safe to do so, entering the nearest lane on the road you are turning onto; always prioritize yielding to traffic already in the intersection. 
+
+Key steps:
+- Signal early: Turn on your left turn signal well before approaching the intersection. 
+- Position correctly: If there is a dedicated left turn lane, move into it; otherwise, position yourself close to the left side of the road. 
+- Slow down: Reduce your speed as you approach the intersection. 
+- Check for traffic: Look both ways carefully to ensure oncoming traffic is clear before proceeding. 
+- Stop if necessary: At a solid white line or stop sign, come to a complete stop and wait for your turn. 
+- Turn smoothly: Once clear, turn your steering wheel smoothly and steadily, entering the nearest lane on the road you are turning onto.
+- Yielding:
+At a yield sign, slow down and yield to any traffic already in the intersection before turning left. 
+- Pedestrian safety:
+Always check for pedestrians before turning left, especially at crosswalks. 
+- Traffic light signals:
+Follow the traffic light instructions, particularly if there are dedicated left turn arrows. 
+- Mirrors and blind spots:
+Utilize your mirrors and blind spot checks to ensure you have a clear view before turning. 
+
 [How to Turn Left at Intersections - Unprotected Left Turns](https://www.youtube.com/watch?v=ZdSCgNm4atQ)
 
 [Left Turns - How to Make Left Turns for Beginners: Left Turn Speed, Traffic Checks, Steering Control](https://www.youtube.com/watch?v=QEds_x1c6Ow)

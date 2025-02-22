@@ -113,6 +113,10 @@ Other tips:
 
  To take a proper left turn, signal your intention early, move into the left lane if available, slow down, come to a complete stop if necessary, check for oncoming traffic carefully, and turn when it is safe to do so, entering the nearest lane on the road you are turning onto; always prioritize yielding to traffic already in the intersection. 
 
+ Pull up into the middle of the intersection when you have the green light. Keep your wheels straight until you have the gap, so that you don't get pushed into oncoming traffic is someone hits you from behind.
+
+This gets you into position to turn quickly, if the light changes before you get a gap, you get to complete your turn before cross traffic can go, even if your light has turned red. But make sure that oncoming traffic is actually stopping for their red light; don't trust your life to a light bulb.
+
 Key steps:
 - Signal early: Turn on your left turn signal well before approaching the intersection. 
 - Position correctly: If there is a dedicated left turn lane, move into it; otherwise, position yourself close to the left side of the road. 

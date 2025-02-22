@@ -107,6 +107,8 @@ Once you've determined that it is safe to change lanes, it's time to go for it! 
 Step #5: Turn your turn signal off.
 Don't be that person driving down the highway with your turn signal blinking. As soon as you're in your desired lane, turn off your blinker.
 
+[How To Shoulder Check And Safely Change Lanes! When Should You Shoulder Check??](https://www.youtube.com/watch?v=BUgksBWW2Do)
+
 [HOW TO CHANGE LANES SAFELY WHILE DRIVING (Basic skill to pass the Road Test)](https://www.youtube.com/watch?v=nVfdrD-Dl8s)
 
 [How to Know When It’s Safe to Change Lanes (Basic Road Test Skill)](https://www.youtube.com/watch?v=JaUZJsEyRV4)
@@ -209,6 +211,7 @@ To safely change lanes, you should:
 The Lane Change is one of the most important skills to learn.  This teaches you to look in your blind spot. It keeps you from hitting other vehicles that may be riding your blindspot.  It makes you aware that cars can hide in that section in the rear window over your shoulder on your right and left side. These cars will not been seen in your mirrors.  
 
 [What Are Blind Spots in Driving? Tips on How to Avoid Them](https://driven2drive.com/blog/blind-spots-in-driving-what-they-are-and-how-to-avoid-them/)
+
 
 
 

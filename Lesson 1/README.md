@@ -21,6 +21,15 @@ You will be expected to know these things on the vehicle and you will have to de
 
 Make sure you can locate and understand how to use these items.  It will be part of the test.  If you miss three you will fail your test and the road test will be canceled. 
 
+## SPEEDING
+
+IT IS NEVER OK TO SPEED EVEN 5 MILES OVER THE SPEED LIMIT IS SPEEDING!
+
+Speeding is a major factor in traffic deaths and injuries. The role of speeding in crashes is described in terms of its effect on the driver, the vehicle, and the road. Excessive speeding reduces the amount of time the driver has to react in a dangerous situation to avoid a crash, increases vehicle stopping distance, and reduces the ability of road safety structures (such as guardrails, impact attenuators, crash cushions, median dividers, and concrete barriers) to protect vehicle occupants in a crash.
+
+Speeding was a factor in 29% of all traffic fatalities in 2022, killing 12,151, or an average of over 33 people on a typical day. The total number of fatal motor-vehicle crashes attributable to speeding was 10,922. A crash is considered speeding-related if the driver was charged with a speeding-related offense or if racing, driving too fast for conditions, or exceeding the posted speed limit was indicated as a contributing factor in the crash.
+
+2022 speeding related deaths decreased by 2.8%, following two consecutive years of increases. The percent of deaths involving speeding (29%) is above the historic low set in 2019 when 26% of deaths involved speeding.  Speeding-related deaths increased 19% in 2020 and another 9% in 2021, resulting in the most deaths recorded since 2007.
 
 ## SIPDE
  Scan Identify Predict Decide Execute

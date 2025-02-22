@@ -54,6 +54,13 @@ SIDE STREETS ARE INTERSECTIONS DO NOT FORGET THAT
 ### Sign Game
 
 Have the new driver read the signs as you drive down the road to them.  
+- Make them read the signs on the side of the road
+- Make them read out loud all signs at the intersection
+- Make them read out loud the signs that you pass on the freeway
+
+As the new driver gets used to reaading their signs call out street names in advance and have them turn on those streets or if on a freeway, call out the exit ramp and have them exit there.
+
+By playing this game it forces the new driver to read their signs and build up that behavior of creating a very aware driver.
 
 
  ## Three Second Rule

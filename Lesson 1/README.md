@@ -111,6 +111,7 @@ Other tips:
 
  ## Left turns
 
+[How to Turn Left at Intersections - Unprotected Left Turns](https://www.youtube.com/watch?v=ZdSCgNm4atQ)
  ## Right Turns
 
  ## Proper Stopping and Distance

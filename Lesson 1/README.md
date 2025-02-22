@@ -194,7 +194,29 @@ Utilize your mirrors and blind spot checks to ensure you have a clear view befor
 [How to Turn Left at Intersections - Unprotected Left Turns](https://www.youtube.com/watch?v=ZdSCgNm4atQ)
 
 [Left Turns - How to Make Left Turns for Beginners: Left Turn Speed, Traffic Checks, Steering Control](https://www.youtube.com/watch?v=QEds_x1c6Ow)
+ 
  ## Right Turns
+
+A right turn is when you turn your vehicle to the right to go in that direction. To make a right turn, you should signal, check for pedestrians and other vehicles, and turn into the lane nearest to the right curb. (This means unmarked roads/parking lanes and bike lanes if available.)
+
+Steps for making a right turn: 
+- Signal your intention to turn right
+- Position your vehicle close to the right edge of the road
+- Check your mirrors and blind spots
+- Yield to pedestrians and cyclists
+- Turn the steering wheel to the right
+- Turn into the lane nearest to the right curb
+
+Tips for making a right turn: 
+- Avoid making wide turns into other lanes
+- Be alert for motorcyclists, cyclists, and pedestrians
+- Only turn when safe
+- Don't turn too wide as you risk colliding with traffic traveling in the opposite direction
+- Turn into your driving lane (observe: Do Not turn into Bike lane and do not turn into the parking lane)
+
+[Right Turns - Making Right Turns for New Drivers: Turn Speed, Lane Position, Steering Control & More](https://www.youtube.com/watch?v=8jGVnb4ab2o)
+
+[]()
 
  ## Proper Stopping and Distance
 

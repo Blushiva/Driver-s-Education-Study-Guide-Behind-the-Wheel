@@ -107,6 +107,10 @@ Once you've determined that it is safe to change lanes, it's time to go for it! 
 Step #5: Turn your turn signal off.
 Don't be that person driving down the highway with your turn signal blinking. As soon as you're in your desired lane, turn off your blinker.
 
+[How to Know When It’s Safe to Change Lanes (Basic Road Test Skill)](https://www.youtube.com/watch?v=JaUZJsEyRV4)
+
+[HOW TO CHANGE LANES SAFELY WHILE DRIVING (Basic skill to pass the Road Test)](https://www.youtube.com/watch?v=nVfdrD-Dl8s)
+
 
  ## Proper Lane Usage
 

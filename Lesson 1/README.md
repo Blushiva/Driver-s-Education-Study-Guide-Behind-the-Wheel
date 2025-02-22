@@ -34,11 +34,11 @@ Make sure you can locate and understand how to use these items.  It will be part
 - Execute your decision. The final step is to execute the decision you have made. In most instances, executing a decision simply means making a routine maneuver.
 Practicing the SIPDE process during your driver training process will help new drivers become smarter, more defensive drivers. If you have a new teen driver and want to make their behind the wheel practice less stressful and more successful,
 
-## Driving Games
+### Driving Games and SIPDE
 
 The idea of the driving game is to make you aware of your surroundings and get you into the habit early of reading your signs and the lines on the road and making you aware of all the intersections on the road. You will build the skill of SIPDE and build defensive driving skills if you practice this while driving.
 
-### Intersection Game
+#### Intersection Game
 
 With your Co-driver have them ask you where the next intersection is.  This is good to practice to make you aware of your surroundings and scan ahead for issues that may be on the road. Ask them to tell you what they are seeing on the road.
 
@@ -51,7 +51,7 @@ Look for these landmarks on the road:
 SIDE STREETS ARE INTERSECTIONS DO NOT FORGET THAT
   
 
-### Sign Game
+#### Sign Game
 
 Have the new driver read the signs as you drive down the road to them.  
 - Make them read the signs on the side of the road

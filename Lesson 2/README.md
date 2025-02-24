@@ -1,10 +1,6 @@
 # Lesson 2 Freeway Driving
 
-By this lesson you should have a minimum of 5 hours of drive time just on the freeway.  You should be able to switch lanes confidently.  You should be checking blind spots and everything else that was covered in lesson 1.  (Please review lesson 1 README.MD File) If your instructor didnt cover it, it was probably because they needed to focus you on a different area that needed immediate attention.
-
-### Lane changes (Advanced)
-
-We want you to continue practicing your lane change.  If you are taking your foot off the gas or not understanding how to merge correctly or let others merge.  We should go over this with you.  
+By this lesson you should have a minimum of 5 hours of drive time just on the freeway.  You should be able to switch lanes confidently.  You should be checking blind spots and everything else that was covered in lesson 1.  (Please review lesson 1 README.MD File Lane Changes) If your instructor didn't cover it, it was probably because they needed to focus you on a different area that needed immediate attention please ask them to cover it. We should also be going over lesson 1 agin but at an accelerated pace.  
 
 ### What is the diffence between a Highway and a Freeway?
 
@@ -12,9 +8,18 @@ A "highway" is a general term for a major road connecting towns or cities, while
 
 Key points about the difference: 
 - Access control:
-Freeways have controlled access with on-ramps and off-ramps, while highways can have direct access from side roads with traffic lights. 
+Freeways have controlled access with on-ramps and off-ramps, while highways can have direct access from side roads with traffic lights aka controlled and uncontrolled intersections. 
 - Traffic flow:
 Freeways are designed for smooth, high-speed traffic with minimal interruptions, whereas highways may have traffic signals and intersections. 
 - General usage:
-"Highway" is a broader term encompassing various major roads, while "freeway" refers specifically to a high-speed, controlled-access road without intersections. 
+"Highway" is a broader term encompassing various major roads, while "freeway" refers specifically to a high-speed, controlled-access road without intersections.
+- Highways and freeways may have an additional third or even fourth lane for one direction of traffic. The number always increases with the traffic flow. In a three-lane freeway, the right lane is meant for exiting and entering the roadways, while the left one is for passing only. *So, you should really only use the middle lane*.
+- Use cruise control when possible to increase fuel efficiency and avoid unnecessary slow-downs and speed-ups.
+- 
 
+### Lane changes (Advanced)
+
+We want you to continue practicing your lane change.  If you are taking your foot off the gas or not understanding how to merge correctly or let others merge.  Or if you just can't maintain your speed consistently, we will assist you with understanding this concept.    
+
+
+### 

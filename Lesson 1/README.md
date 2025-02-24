@@ -10,6 +10,8 @@ In lesson one we will cover the basics of driving:
 
 To get a provisional driver's license in Minnesota, drivers under 18 must complete 50 hours of supervised driving time, including 15 hours at night. This time must be with a parent or other qualified driver. The hours driven with an instructor are part of the driver's education course. 
 
+After you turn 16, and when you have had your permit for 6 months and have successfully completed behind-the-wheel, you will be able to set up an appointment with an Examination Station.
+
 How to log driving hours:
 - Drivers can use the Minnesota State Driving Log or the RoadReady app to log their driving hours.
 - The log must be turned in to the DMV on the day of the road test.

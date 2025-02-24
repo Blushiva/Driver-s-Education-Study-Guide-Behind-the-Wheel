@@ -77,7 +77,7 @@ Look for these landmarks on the road:
 - traffic lights
 - vehicles entering or exiting
 
-SIDE STREETS ARE INTERSECTIONS DO NOT FORGET THAT
+SIDE STREETS ARE INTERSECTIONS... DO NOT FORGET THAT
   
 
 #### Sign Game

@@ -82,7 +82,7 @@ SIDE STREETS ARE INTERSECTIONS... DO NOT FORGET THAT
 
 #### Sign Game
 
-Have the new driver read the signs as you drive down the road to them.  
+Have the new driver read the signs as you drive down the road to the sign.  
 - Make them read the signs on the side of the road
 - Make them read out loud all signs at the intersection
 - Make them read out loud the signs that you pass on the freeway

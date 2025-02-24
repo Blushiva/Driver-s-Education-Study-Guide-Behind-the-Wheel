@@ -1,6 +1,6 @@
 # Lesson 1 Basic Driving
 
-## Things to achieve before Lesson 1 Behind the wheel
+### Things to achieve before Lesson 1 Behind the wheel
 
 In lesson one we will cover the basics of driving:
 - This is why it's important to have a consistent driving behavior before your first lesson and be driving a minimum of 3-5 days a week.  You should be comfortable and able to take direction while driving.
@@ -21,6 +21,9 @@ Behind-the-wheel instruction:
 - Minnesota law requires six hours of behind-the-wheel instruction to take the driver's license test for anyone under 18.
 - Behind-the-wheel training helps new drivers gain the skills and experience they need to drive safely. 
 
+## Lesson 1 OVERVIEW
+
+Lesson 1 is the basic lesson.  Basic vehicle control and operation are emphasised along with good obsevation techniques.  The student must demonstrate a knowledge of all vehicle controls and warning lights. Merge vs. yield, SMOG and WHEN to go are put into practice.
 
 ## Vehicle Controls
 
@@ -117,6 +120,13 @@ You can also watch this video to learn more about the three-second rule:
 
 ### REMEBER LEAN INTO YOUR WHEEL WHEN LOOKING OVER YOUR SHOULDER
 
+#### SMOG 
+
+- Signal
+- Mirror
+- Over Shoulder
+- GO
+  
 Changing Lanes: What To Do
 
 Step #1: Turn on your turn signal.

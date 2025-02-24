@@ -8,6 +8,17 @@ In lesson one we will cover the basics of driving:
 - PLease download any tracking app for yur drive time hours.
 - YOU ARE NOT ALLOWED TO USE YOUR BEHIND THE WHEEL INSTRUCTION TIME AS PART OF YOUR DRIVING HOURS.
 
+To get a provisional driver's license in Minnesota, drivers under 18 must complete 50 hours of supervised driving time, including 15 hours at night. This time must be with a parent or other qualified driver. The hours driven with an instructor are part of the driver's education course. 
+
+How to log driving hours:
+- Drivers can use the Minnesota State Driving Log or the RoadReady app to log their driving hours.
+- The log must be turned in to the DMV on the day of the road test.
+- Parents must sign off on the log.
+  
+Behind-the-wheel instruction:
+- Minnesota law requires six hours of behind-the-wheel instruction to take the driver's license test for anyone under 18.
+- Behind-the-wheel training helps new drivers gain the skills and experience they need to drive safely. 
+
 
 ## Vehicle Controls
 

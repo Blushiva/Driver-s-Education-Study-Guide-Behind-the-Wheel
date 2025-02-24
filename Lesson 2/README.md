@@ -15,7 +15,7 @@ Freeways are designed for smooth, high-speed traffic with minimal interruptions,
 "Highway" is a broader term encompassing various major roads, while "freeway" refers specifically to a high-speed, controlled-access road without intersections.
 - Highways and freeways may have an additional third or even fourth lane for one direction of traffic. The number always increases with the traffic flow. In a three-lane freeway, the right lane is meant for exiting and entering the roadways, while the left one is for passing only. *So, you should really only use the middle lane*.
 - Use cruise control when possible to increase fuel efficiency and avoid unnecessary slow-downs and speed-ups.
-- 
+- Stay at the speed limit.  Don't contribute to the traffic problem.  Studies have shown that driving the speed limit while maintaining "the 3 second rule" ruduces congestion on the freeway.  It creates a bubble around you where you are not nervous or tail-gaiting and you are less stressed and less likely to make a mistake.
 
 ### Lane changes (Advanced)
 

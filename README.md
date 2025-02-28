@@ -47,6 +47,8 @@ A video on how to park 90 degrees backing up easily (bay parking).
 This is a fantastic video on Parallel Parking and 90-degree back in.
 
 
+
+
 ### DMV VIDEOS
 
 This video is intended to help guide Minnesota state residents through the process of preparing for and successfully passing the driver’s road test. 

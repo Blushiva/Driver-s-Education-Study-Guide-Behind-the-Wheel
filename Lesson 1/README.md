@@ -297,7 +297,7 @@ This is a fantastic video on Parallel Parking and 90-degree back in.
 
 #### Hill Parking
 
-o park on a hill in Minnesota, you should turn your wheels away from the curb when parking uphill, and toward the curb when parking downhill. You should also use your emergency brake and avoid parking too close to other cars. 
+To park on a hill in Minnesota, you should turn your wheels away from the curb when parking uphill, and toward the curb when parking downhill. You should also use your emergency brake and avoid parking too close to other cars. 
 
 - Uphill parking 
 Park your vehicle
@@ -312,6 +312,8 @@ Engage your emergency brake
 - If there's no curb 
 Turn your wheel toward the edge of the road before parking
 Set the parking brake
+
+[How to Park Uphill & Downhill :: Step-by-Step Instructions](https://www.youtube.com/watch?v=nUleYG96qnQ&t=726s)
 
 Tips:
 - Always double-check your wheel position before exiting the vehicle 

@@ -287,7 +287,31 @@ I cannot emphasis enough that parking should be something that feels like a seco
 
 A video on how to park 90 degrees backing up easily (bay parking).
 
+#### Parallel Parking
+
 [Parallel Parking and 90-Degree Backing Skill](https://www.youtube.com/watch?v=aSbVbTvTSFo)
 
 This is a fantastic video on Parallel Parking and 90-degree back in.
 
+#### Hill Parking
+
+o park on a hill in Minnesota, you should turn your wheels away from the curb when parking uphill, and toward the curb when parking downhill. You should also use your emergency brake and avoid parking too close to other cars. 
+
+- Uphill parking 
+Park your vehicle
+Turn your front wheels away from the curb to the left
+Engage your emergency brake
+
+- Downhill parking 
+Parallel park your vehicle
+Turn your front wheels toward the curb to the right
+Engage your emergency brake
+
+- If there's no curb 
+Turn your wheel toward the edge of the road before parking
+Set the parking brake
+
+Tips:
+- Always double-check your wheel position before exiting the vehicle 
+- Make it a habit to apply the parking brake every time you park 
+- Don't rely solely on the E-brake to hold the car in place 

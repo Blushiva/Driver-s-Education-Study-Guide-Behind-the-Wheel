@@ -291,7 +291,7 @@ Rules of the road:
 Taking responsibility: 
 - Recognize hazards: Be aware of potential hazards on the road
 - Read the road: Anticipate what's ahead and plan your route
--React properly: Respond appropriately to hazards and situations
+- React properly: Respond appropriately to hazards and situations
 
  
 

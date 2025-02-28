@@ -279,6 +279,22 @@ Stopping behind a car at the light or stop sign
  
  ## Defensive driving
 
+Defensive driving in Minnesota includes following the rules of the road and taking responsibility for your actions. 
+
+Rules of the road:
+* Be focused: Keep your eyes on the road and avoid distractions 
+* Be aware of blind spots: Check your blind spots regularly 
+* Slow down: Reduce your speed at intersections and when approaching hazards 
+* Maintain a safe following distance: Leave enough space between you and the car ahead 
+* Follow traffic rules: Obey traffic laws and signals 
+
+Taking responsibility: 
+- Recognize hazards: Be aware of potential hazards on the road
+- Read the road: Anticipate what's ahead and plan your route
+-React properly: Respond appropriately to hazards and situations
+
+ 
+
 ### Parking 
 
 I cannot emphasis enough that parking should be something that feels like a second skin to you.  You should practice it until you are so comfortable that you can do it in your sleep.  In this section I will cover parking and the videos behind it.

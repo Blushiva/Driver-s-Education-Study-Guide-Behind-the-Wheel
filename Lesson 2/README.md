@@ -34,7 +34,8 @@ Key points about freeway lines:
 
 White lines:
 - Solid white line: Stay within your lane, often marking the edge of the road. 
-- Broken white line: You can change lanes when safe to do so. 
+- Broken white line: You can change lanes when safe to do so.
+- Small short Square Lines:  Lane is coming to an end, merge over or exit.
 
 Yellow lines:
 - Solid yellow line: Do not cross the center line to pass. 

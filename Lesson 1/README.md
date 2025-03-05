@@ -262,10 +262,46 @@ Stopping behind a car at the light or stop sign
 
  Make sure you are about one car length behind the vehicle in front of you. If you can see the bottom of the tire touching the pavement you are stopped perfectly.  If the car inches forward DO NOT INCH WITH THEM.  DO NOT MOVE UNITL THE LIGHT IS GREEN.  This is how the car behind you ends up in your trunk.
 
-## Stop Signs and Stop Lights
+## Stop Signs
 
+ - Correct Stop at Stop Sign
+    1. Make sure you are behind the line on the road or bar at the stop sign.  (This means front of car is behind the bar and/or hood of car is underlining the line on the road.)
+    2. Come to a complete stop passenger must come to a full rest.
+    3. Look to your Right for Cars/obsticles/ect...
+    4. Look to your Left making sure nothing is present.
+    5. Then Check to your Right again (ONLY GO IF EVERYTHING IS CLEAR AND YOU CAN GO SAFELY)
+   
  - obstructed view at stop sign or light
- 
+   1. STOP BEHIND THE STOP SIGN
+   2. WAIT 3 Seconds (LOOKING to your left then right then left again. You are looking for cars and movement/pedistrians/bikes ect...)
+   3. Start inching up if it is clear then you go otherwise stop if car or other obsticle is present.
+  
+  - WHO GOES FIRST? 4 WAY STOP
+    1. ASK YOURSELF WHO GOT HERE FIRST?
+    2. DID YOU GET THERE AT SAME TIME?  WHO IS TO THE RIGHT? WHO IS TAKING THE LEFT TURN? 
+    3. WHO HAS RIGHT OF WAY?
+    4. Then GO When it's your turn
+
+## Busy Intersections
+
+At a busy uncontrolled intersection, you should only proceed when you have a clear path and are the first vehicle to reach the intersection; if multiple vehicles arrive at the same time, the driver on the right typically has the right of way, meaning you should yield if you are on the left. 
+
+Key points to remember at an uncontrolled intersection:
+- Slow down and be cautious:
+- Approach the intersection as if it were a stop sign, even if you are the first to arrive. 
+- Yield to traffic already in the intersection:
+- If another vehicle is already in the intersection, you must wait for them to clear before proceeding.
+  
+Right of way rule:
+
+- If multiple vehicles arrive at the same time, the driver on the right usually has the right of way. 
+- Look carefully before entering:
+- Always check your blind spots and scan for oncoming traffic before entering the intersection. 
+
+   - WHEN DO I GO IF IT'S SUPER BUSY?
+      1. There should be enough safe distance (without forcing a car to brake) to enter on the road.
+      2. Find the Last car with a big gap and go immediately as soon as the car passes you.  
+      3. HOW do I Tell That?  If your tummy is screaming we are going to die, DANGER DANGER... DO NOT GO!
 
  ## Lines on the Road
 

@@ -44,4 +44,5 @@ Yellow lines:
 - Solid yellow line with a broken yellow line: Only pass when next to the broken line. 
 
 [Pavement Markings](https://www.youtube.com/watch?v=Lq3p5i9g9c0)
-[Understanding Road Markings - Driving Tips](https://www.youtube.com/watch?v=cTtEbLoJHyY)
+
+[Understanding Road Markings - Driving Tips](https://www.youtube.com/watch?v=cTtEbLoJHyY) This goes in depth on how to drive your lines.

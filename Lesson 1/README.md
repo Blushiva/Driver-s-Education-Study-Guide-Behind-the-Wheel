@@ -99,7 +99,7 @@ By playing this game it forces the new driver to read their signs and build up t
 
  ## Three Second Rule
 
-The three-second rule is a driving technique that recommends maintaining a safe following distance between your vehicle and the one ahead. The rule helps you avoid rear-ending the car in front of you if they brake suddenly. 
+The three-second rule is a driving technique that recommends maintaining a safe following distance between your vehicle and the one ahead. The rule helps you avoid rear-ending the car in front of you if they brake suddenly. It also Gives you clear sight lines of opposite traffic and traffic in front of the car ahead of you.
 
 How to use the three-second rule: 
 - Choose a roadside marker, like a tree or sign

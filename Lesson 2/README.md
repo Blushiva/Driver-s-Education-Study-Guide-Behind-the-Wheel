@@ -77,6 +77,31 @@ The entrance ramp shortly turns into the acceleration lane and merging area. Onc
 6. Merge into the freeway lane.
 Shortly after the acceleration lane, you are in the merging area. Turn on your signals, look over your mirrors and shoulders and look for an opening to merge onto the freeway.
 
+## HOW TO EXIT A FREEWAY
+
+To exit a freeway, identify your exit well in advance, move into the correct lane early, use the deceleration lane to slow down gradually, signal your intention to exit, and merge smoothly onto the exit ramp; never slow down abruptly on the freeway itself and always be aware of traffic around you when changing lanes to reach the exit. 
+
+Plan ahead:
+- Watch for exit signs and determine which lane you need to be in well before reaching the exit. 
+
+Position yourself:
+- Move into the appropriate lane early, usually the right lane for most exits. 
+
+Signal your intention:
+- Begin signaling your exit intention several seconds before reaching the deceleration lane. 
+
+Use the deceleration lane:
+- Once in the correct lane, use the deceleration lane to gradually slow down. 
+
+Merge smoothly:
+- Merge onto the exit ramp, yielding to traffic already on the ramp as needed. 
+
+Important points to remember:
+- Do not slow down on the freeway: Wait until the deceleration lane to start slowing down. 
+- Be aware of traffic: Check your mirrors and blind spots before changing lanes to reach the exit. 
+- Do not abruptly change lanes: Make lane changes smoothly and safely. 
+- If you miss your exit: Continue to the next exit and do not attempt to turn around on the freeway. 
+
 ### Lane changes (Advanced)
 
 We want you to continue practicing your lane change.  If you are taking your foot off the gas or not understanding how to merge correctly or let others merge.  Or if you just can't maintain your speed consistently, we will assist you with understanding this concept.    

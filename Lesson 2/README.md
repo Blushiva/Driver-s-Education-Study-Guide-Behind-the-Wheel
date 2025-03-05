@@ -41,7 +41,7 @@ When changing lanes, you should continue going with the flow of traffic. That me
 - Mistake #4: Drift while checking your blind spot. LEAN INTO YOUR WHEEL WHEN LOOKING OVER SHOULDER.
 A quick check is all you need. Once you've made sure your blind spot is clear, you must get your eyes back on the road. After all, you don't want to merge into another vehicle's rear end!
 
-Mistake #5: WHEN ON FREEWAY Merging onto the freeway before the car in front of you merges.
+- Mistake #5: WHEN ON FREEWAY Merging onto the freeway before the car in front of you merges.
 When you merge onto a freeway, the cars that are already moving have the right of way, which means they are not legally required to make space for you to enter the lane. You are responsible for finding a gap. While you are watching the cars on the highway, don’t forget to pay attention to the cars in front of you. If you aren’t watching closely, you could end up rear ending another vehicle. It’s safer to let the car in front of you merge first, then look for your chance to merge into traffic.
 
 ### READING THE LINES ON THE ROAD

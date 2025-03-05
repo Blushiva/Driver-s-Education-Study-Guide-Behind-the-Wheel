@@ -25,6 +25,18 @@ Freeways are designed for smooth, high-speed traffic with minimal interruptions,
 
 We want you to continue practicing your lane change.  If you are taking your foot off the gas or not understanding how to merge correctly or let others merge.  Or if you just can't maintain your speed consistently, we will assist you with understanding this concept.    
 
+SEE LESSON 1 ON HOW TO LANE CHANGE
+
+Changing Lanes: What Not To Do
+
+- Mistake #1: Take too long to do all the steps.
+Things change quickly on the road, and you should do every step within a couple of seconds of the other.
+- Mistake #2: Forget to activate or deactivate your turn signal.
+Your turn signal is your voice on the road. Using your turn signal alerts other cars that you're making a move. Leaving it on after you've merged or turning it on when you're halfway through a turn is confusing and potentially dangerous!
+- Mistake #3: Brake or slow down before changing lanes.
+When changing lanes, you should continue going with the flow of traffic. That means maintaining your speed when merging, and then catching up to the speed of the lane that you move into — whether that means slowing down or accelerating a bit.
+- Mistake #4: Drift while checking your blind spot. LEAN INTO YOUR WHEEL WHEN LOOKING OVER SHOULDER.
+A quick check is all you need. Once you've made sure your blind spot is clear, you must get your eyes back on the road. After all, you don't want to merge into another vehicle's rear end!
 
 ### READING THE LINES ON THE ROAD
 

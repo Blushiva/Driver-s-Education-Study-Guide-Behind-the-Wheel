@@ -43,6 +43,6 @@ Yellow lines:
 - Double solid yellow lines: Indicates no passing allowed in either direction. 
 - Solid yellow line with a broken yellow line: Only pass when next to the broken line. 
 
-[Pavement Markings](https://www.youtube.com/watch?v=Lq3p5i9g9c0)
+[Pavement Markings](https://www.youtube.com/watch?v=Lq3p5i9g9c0) This video explains The lines and markings on the road.
 
-[Understanding Road Markings - Driving Tips](https://www.youtube.com/watch?v=cTtEbLoJHyY) This goes in depth on how to drive your lines.
+[Understanding Road Markings - Driving Tips](https://www.youtube.com/watch?v=cTtEbLoJHyY) This video goes in depth on how to drive your lines.

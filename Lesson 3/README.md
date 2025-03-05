@@ -48,4 +48,13 @@ Speed limit considerations:
 How do I know I am on a one way?  
 - Look for Signs that say ONE WAY
 - Look at traffic, is it flowing in the same direction?
-- 
+- Parking, is it all pointing in the same direction?
+- The lines on the road are all white.
+- Look for a sign that says DO NOT ENTER. If you see that, you are turning onto a one-way the wrong way.
+
+Always check for signs:
+- Even if you think you know the road, always double-check for signs before turning to ensure you are not entering a one-way street against traffic. 
+
+Be cautious at intersections:
+- When turning onto a new street, be extra vigilant to observe traffic patterns and signs, especially at intersections. 
+

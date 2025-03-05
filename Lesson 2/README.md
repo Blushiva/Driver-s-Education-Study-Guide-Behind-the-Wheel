@@ -24,6 +24,19 @@ Freeways are designed for smooth, high-speed traffic with minimal interruptions,
 
 ## PROPER USE OF THE FREEWAY/HIGHWAY LANE
 
+On a freeway, the right lane is typically used for entering, exiting, and slower traffic, while the left lane is primarily for passing and faster-moving vehicles; meaning you should "keep right except to pass" - always stay in the right lane unless you are actively overtaking another vehicle. 
+
+Key points about freeway lane usage:
+- Right lane: For entering, exiting, and slower speeds.
+- Left lane: For passing only, used to overtake slower vehicles.
+- Middle lanes: Used for through traffic, maintaining a consistent speed. 
+
+Important considerations:
+- Do not linger in the left lane: Once you have passed a vehicle, move back to the right lane promptly. It is ILLEAGAL IN MN.
+- Check your mirrors and blind spots: Always signal before changing lanes to ensure it is safe to move. 
+- Be aware of lane markings and signs: Some freeways may have specific lane usage rules indicated by signs. 
+
+
 ### Carpool Lane
 
 Carpool lanes, also known as High-Occupancy Vehicle (HOV) lanes, are typically used by vehicles with a minimum number of occupants. Other vehicles that may be permitted include motorcycles, buses, and some low-emission vehicles. 

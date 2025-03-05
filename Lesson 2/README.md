@@ -26,4 +26,20 @@ Freeways are designed for smooth, high-speed traffic with minimal interruptions,
 We want you to continue practicing your lane change.  If you are taking your foot off the gas or not understanding how to merge correctly or let others merge.  Or if you just can't maintain your speed consistently, we will assist you with understanding this concept.    
 
 
-### 
+### READING THE LINES ON THE ROAD
+
+To read the lines on the freeway, understand that white lines separate lanes of traffic moving in the same direction, while yellow lines separate traffic moving in opposite directions; solid lines indicate you should stay within your lane, while broken lines allow you to change lanes when safe to do so; pay particular attention to the pattern of solid and broken lines to determine passing rules on the road. 
+
+Key points about freeway lines:
+
+White lines:
+- Solid white line: Stay within your lane, often marking the edge of the road. 
+- Broken white line: You can change lanes when safe to do so. 
+
+Yellow lines:
+- Solid yellow line: Do not cross the center line to pass. 
+- Broken yellow line: You can pass when the broken line is on your side.
+- Double solid yellow lines: Indicates no passing allowed in either direction. 
+- Solid yellow line with a broken yellow line: Only pass when next to the broken line. 
+
+[Understanding Road Markings - Driving Tips](https://www.youtube.com/watch?v=cTtEbLoJHyY)

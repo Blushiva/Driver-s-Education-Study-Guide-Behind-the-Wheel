@@ -8,7 +8,7 @@ If you don't understand something we will review it.
 - You should be stopping behind your lines/stop sign/crosswalk and waiting for 3 seconds and LOOKING FOR HAZARDS.
 - You should be using the correct lane for taking right turns.
 - You should not be cutting lanes on your left turns.
-- You should be able to make a safe lane change using SMOG.
+- You should be able to make a safe lane change using SMOG at different speeds.
 - You Should understand Blind spots.
 - You should not be asking to go over parking, that is your responsibility after lesson 1. (Unless we could not cover parking in the previous 2 lessons)
 - Understand Parallel Parking/Hill Parking/90 Degree Back-in and be good at it. That means practice!
@@ -24,7 +24,8 @@ If you don't understand something we will review it.
 - When you cross through an intersection, you should already be looking for the next one.  SIPDE.
 - SIPDE You should know everything that is going on, on that road before you get to it.
 - Can you control your vehicle in any driving area and feel comfortable?
-- 
+- Are you Maintaing a safe distance from the car in front of you?
+  
 
 #### REMEMBER EVERY NIGHBORHOOD IS SOMEONE'S HOME. DO NOT SPEED THROUGH SOMEONE ELES NEIGHBORHOOD(EVEN IF IT'S URBAN). YOU DRIVE TO THE AREA YOU ARE IN.
 
@@ -41,3 +42,10 @@ If you don't understand something we will review it.
 Speed limit considerations:
 - The Minnesota Department of Transportation (MnDOT) sets speed limits based on traffic engineering surveys. These surveys consider roadway conditions, accident records, and the prevailing speed of prudent drivers. 
 - Lowering speed limits can make neighborhood roads safer by reducing the likelihood of crashes and injuries, and increasing safety for pedestrians and cyclists. 
+
+## ONE WAYS
+
+How do I know I am on a one way?  
+- Look for Signs that say ONE WAY
+- Look at traffic, is it flowing in the same direction?
+- 

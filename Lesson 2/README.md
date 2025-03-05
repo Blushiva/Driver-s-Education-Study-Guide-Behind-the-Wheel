@@ -48,7 +48,7 @@ When you merge onto a freeway, the cars that are already moving have the right o
 
 To read the lines on the freeway, understand that white lines separate lanes of traffic moving in the same direction, while yellow lines separate traffic moving in opposite directions; solid lines indicate you should stay within your lane, while broken lines allow you to change lanes when safe to do so; pay particular attention to the pattern of solid and broken lines to determine passing rules on the road. 
 
-Key points about freeway lines:
+Key points about Highway lines:
 
 White lines:
 - Solid white line: Stay within your lane, often marking the edge of the road. 

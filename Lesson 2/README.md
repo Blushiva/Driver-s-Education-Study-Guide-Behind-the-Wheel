@@ -22,6 +22,24 @@ Freeways are designed for smooth, high-speed traffic with minimal interruptions,
 - Use cruise control when possible to increase fuel efficiency and avoid unnecessary slow-downs and speed-ups.
 - Stay at the speed limit.  Don't contribute to the traffic problem.  Studies have shown that driving the speed limit while maintaining "the 3 second rule" reduces congestion on the freeway.  It creates a bubble around you where you are not nervous or tail-gaiting and you are less stressed and less likely to make a mistake.
 
+## PROPER USE OF THE FREEWAY/HIGHWAY LANE
+
+### Carpool Lane
+
+Carpool lanes, also known as High-Occupancy Vehicle (HOV) lanes, are typically used by vehicles with a minimum number of occupants. Other vehicles that may be permitted include motorcycles, buses, and some low-emission vehicles. 
+
+Who can use HOV lanes?
+- Carpools: Vehicles with two or more occupants are usually permitted in HOV lanes 
+- Buses: Public transit buses are often allowed in HOV lanes 
+- Motorcycles: Motorcycles are generally permitted in HOV lanes across the United States 
+- Low-emission vehicles: Some low-emission or electric vehicles can use HOV lanes with a single occupant
+  
+Other HOV lane restrictions:
+- Large trucks and vehicles towing trailers are often prohibited from using HOV lanes 
+- HOV lanes are usually located next to the regular, or unrestricted, lanes 
+- HOV lanes are intended to reduce traffic congestion and air pollution 
+
+
 ### Lane changes (Advanced)
 
 We want you to continue practicing your lane change.  If you are taking your foot off the gas or not understanding how to merge correctly or let others merge.  Or if you just can't maintain your speed consistently, we will assist you with understanding this concept.    

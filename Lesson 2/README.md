@@ -52,6 +52,32 @@ Other HOV lane restrictions:
 - HOV lanes are usually located next to the regular, or unrestricted, lanes 
 - HOV lanes are intended to reduce traffic congestion and air pollution 
 
+## HOW TO ENTER A FREEWAY
+
+1. Look for the freeway entrance sign.
+Freeway entrances usually have entrance ramps, and acceleration lanes and merge areas.
+The first area of a freeway entrance is the entrance ramp.
+When you enter a freeway, look for the freeway guide signs that provide you information about the freeway route number and direction or destination of the highway.
+
+2. Make sure that you are not entering the freeway exit ramp.
+If you are on what you believe to be an entrance ramp, but you see a DO NOT ENTER or WRONG WAY sign, pull over immediately.
+Turn around when you can, and get off of the ramp.
+
+3. Follow the freeway entrance's speed limit.
+Look for the speed limit on the entrance ramp. Some of the entrance ramps have speed limits due to their sharp curves, so be careful and drive slowly and at a safe speed on sharp curves.
+
+4. Follow the freeway entrance's ramp meters signal lights.
+On some of the freeway entrances, there are ramp meters (ramp signals) with two states: green and red. The ramp meters are used to control the flow of traffic on a busy highway.
+
+Ramp meters allow one or two cars to pass per green light. Read the signs that provide information about the number of cars that is allowed to pass at each green light. Always arrive at a full stop at the ramp signal until it turns green.
+
+5. Accelerate to a safe speed close to the flow of freeway traffic.
+When you are on the entrance ramp, be prepared to accelerate to a safe speed close to the flow of freeway traffic and begin checking for the opening.
+
+The entrance ramp shortly turns into the acceleration lane and merging area. Once you are in the acceleration lane, start speeding up to a safe speed close to the flow of freeway traffic, and begin planning on merging onto the freeway.
+
+6. Merge into the freeway lane.
+Shortly after the acceleration lane, you are in the merging area. Turn on your signals, look over your mirrors and shoulders and look for an opening to merge onto the freeway.
 
 ### Lane changes (Advanced)
 

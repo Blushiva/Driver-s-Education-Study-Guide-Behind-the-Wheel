@@ -23,10 +23,21 @@ If you don't understand something we will review it.
 - You Should Be reading every sign before you get to that intersection.
 - When you cross through an intersection, you should already be looking for the next one.  SIPDE.
 - SIPDE You should know everything that is going on, on that road before you get to it.
+- Can you control your vehicle in any driving area and feel comfortable?
+- 
 
-REMEMBER EVERY NIGHBORHOOD IS SOMEONE'S HOME. DO NOT SPEED THROUGH SOMEONE ELES NEIGHBORHOOD(EVEN IF IT'S URBAN). YOU DRIVE TO THE AREA YOU ARE IN.
+#### REMEMBER EVERY NIGHBORHOOD IS SOMEONE'S HOME. DO NOT SPEED THROUGH SOMEONE ELES NEIGHBORHOOD(EVEN IF IT'S URBAN). YOU DRIVE TO THE AREA YOU ARE IN.
 
   - urban setting: 25 MPH or Less unless posted (Minneapolis and ST.Paul are 20 MPH unless posted.)  
   - suburban setting: 40 MPH unless posted
   - neighborhood: 20 MPH unless posted
-  
+
+#### Other Minnesota speed limits 
+- 10 mph in alleys, mobile home parks, and campgrounds
+- 55 mph on other roads
+- 65 mph on expressways and urban interstate freeways/highways
+- 70 mph on rural interstate highways/freeways
+
+Speed limit considerations:
+- The Minnesota Department of Transportation (MnDOT) sets speed limits based on traffic engineering surveys. These surveys consider roadway conditions, accident records, and the prevailing speed of prudent drivers. 
+- Lowering speed limits can make neighborhood roads safer by reducing the likelihood of crashes and injuries, and increasing safety for pedestrians and cyclists. 

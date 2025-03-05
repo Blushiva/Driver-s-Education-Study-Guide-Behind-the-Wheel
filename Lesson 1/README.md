@@ -305,12 +305,26 @@ Right of way rule:
 
  ## Lines on the Road
 
+Recognize and Understand these: 
  - Yellow lines
  - white lines
  - solid lines
  - solid on one side dashed on the other
  - crosswalks 
  - bike lanes
+
+Key points about lines:
+
+White lines:
+- Solid white line: Stay within your lane, often marking the edge of the road.
+- Broken white line: You can change lanes when safe to do so.
+- Small short Square Lines: Lane is coming to an end, merge over or exit.
+
+Yellow lines:
+- Solid yellow line: Do not cross the center line to pass.
+- Broken yellow line: You can pass when the broken line is on your side.
+- Double solid yellow lines: Indicates no passing allowed in either direction.
+- Solid yellow line with a broken yellow line: Only pass when next to the broken line.
 
  
  ## Defensive driving

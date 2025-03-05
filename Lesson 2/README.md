@@ -4,7 +4,8 @@
 
 - By this lesson you should have a minimum of 5 hours of drive time just on the freeway before this lesson.
 - You should be able to switch lanes confidently.  You should be checking blind spots and everything else that was covered in lesson 1.  (Please review lesson 1 README.MD File Lane Changes) If your instructor didn't cover it, it was probably because they needed to focus you on a different area that needed immediate attention please ask them to cover it.
-- We should also be going over all the main points of lesson 1 again but at an accelerated pace.  
+- We should also be going over all the main points of lesson 1 again but at an accelerated pace.
+- PLEASE REVIEW LESSON #1 
 
 ### What is the diffence between a Highway and a Freeway?
 

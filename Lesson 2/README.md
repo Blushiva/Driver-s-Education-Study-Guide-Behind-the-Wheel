@@ -24,7 +24,7 @@ Freeways are designed for smooth, high-speed traffic with minimal interruptions,
 
 ## PROPER USE OF THE FREEWAY/HIGHWAY LANE
 
-On a freeway, the right lane is typically used for entering, exiting, and slower traffic, while the left lane is primarily for passing and faster-moving vehicles; meaning you should "keep right except to pass" - always stay in the right lane unless you are actively overtaking another vehicle. 
+On a Highway/Freeway, the right lane is typically used for entering, exiting, and slower traffic, while the left lane is primarily for passing and faster-moving vehicles; meaning you should "keep right except to pass" - always stay in the right lane unless you are actively overtaking another vehicle. 
 
 Key points about freeway lane usage:
 - Right lane: For entering, exiting, and slower speeds.

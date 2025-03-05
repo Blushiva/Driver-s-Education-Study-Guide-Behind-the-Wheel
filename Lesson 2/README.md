@@ -68,12 +68,10 @@ Look for the speed limit on the entrance ramp. Some of the entrance ramps have s
 
 4. Follow the freeway entrance's ramp meters signal lights.
 On some of the freeway entrances, there are ramp meters (ramp signals) with two states: green and red. The ramp meters are used to control the flow of traffic on a busy highway.
-
 Ramp meters allow one or two cars to pass per green light. Read the signs that provide information about the number of cars that is allowed to pass at each green light. Always arrive at a full stop at the ramp signal until it turns green.
 
 5. Accelerate to a safe speed close to the flow of freeway traffic.
 When you are on the entrance ramp, be prepared to accelerate to a safe speed close to the flow of freeway traffic and begin checking for the opening.
-
 The entrance ramp shortly turns into the acceleration lane and merging area. Once you are in the acceleration lane, start speeding up to a safe speed close to the flow of freeway traffic, and begin planning on merging onto the freeway.
 
 6. Merge into the freeway lane.

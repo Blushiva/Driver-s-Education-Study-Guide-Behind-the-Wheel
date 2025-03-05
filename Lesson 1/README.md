@@ -5,7 +5,7 @@
 In lesson one we will cover the basics of driving:
 - This is why it's important to have a consistent driving behavior before your first lesson and be driving a minimum of 3-5 days a week.  You should be comfortable and able to take direction while driving.
 - You should also have a minimum of 15-20 hours of drive time before your first lesson.
-- PLease download any tracking app for your drive time hours.
+- Please download any tracking app for your drive time hours.
 - YOU ARE NOT ALLOWED TO USE YOUR BEHIND THE WHEEL INSTRUCTION TIME AS PART OF YOUR DRIVING HOURS.
 
 To get a provisional driver's license in Minnesota, drivers under 18 must complete 50 hours of supervised driving time, including 15 hours at night. This time must be with a parent or other qualified driver. The hours driven with an instructor are part of the driver's education course. 

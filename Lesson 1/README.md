@@ -272,9 +272,8 @@ Stopping behind a car at the light or stop sign
     5. Then Check to your Right again (ONLY GO IF EVERYTHING IS CLEAR AND YOU CAN GO SAFELY)
    
  - obstructed view at stop sign or light
-   1. STOP BEHIND THE STOP SIGN
-   2. WAIT 3 Seconds (LOOKING to your left then right then left again. You are looking for cars and movement/pedistrians/bikes ect...)
-   3. Start inching up if it is clear then you go otherwise stop if car or other obsticle is present.
+   1. STOP BEHIND THE STOP SIGN. WAIT 3 Seconds (LOOKING to your left then right then left again. You are looking for cars and movement/pedistrians/bikes ect...)
+   3. Start inching up if it is clear then you go otherwise stop if car or other obsticle is present and then go as soon as you find your opening.
   
   - WHO GOES FIRST? 4 WAY STOP
     1. ASK YOURSELF WHO GOT HERE FIRST?
@@ -357,9 +356,17 @@ A video on how to park 90 degrees backing up easily (bay parking).
 
 #### Parallel Parking
 
+1. SIGNAL then line up your back bumper to the front cone.  (You should be about 1 1/2 feet off of it.)
+2. Put car in reverse.  Crank wheel all the way to the right.  Go until you are 45 degrees off the car.
+3. Straighten the wheel. and go back until you are a foot off the curb.
+4. Crank wheel to the left and slide into space and pay attention to the back cones.  (Make sure not to hit them and try to make your hood stright)
+5. Evenly space yourself between the cones.
+
 [Parallel Parking and 90-Degree Backing Skill](https://www.youtube.com/watch?v=aSbVbTvTSFo)
 
 This is a fantastic video on Parallel Parking and 90-degree back in.
+
+
 
 #### Hill Parking
 

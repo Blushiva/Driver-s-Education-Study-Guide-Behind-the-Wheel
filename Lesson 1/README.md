@@ -356,10 +356,10 @@ A video on how to park 90 degrees backing up easily (bay parking).
 
 #### Parallel Parking
 
-1. SIGNAL then line up your back bumper to the front cone.  (You should be about 1 1/2 feet off of it.)
-2. Put car in reverse.  Crank wheel all the way to the right.  Go until you are 45 degrees off the car.
-3. Straighten the wheel. and go back until you are a foot off the curb.
-4. Crank wheel to the left and slide into space and pay attention to the back cones.  (Make sure not to hit them and try to make your hood stright)
+1. SIGNAL then line up your back bumper to the front cone/car.  (You should be about 1 1/2 feet off of it.)
+2. Put car in reverse.  Crank wheel all the way to the right.  Go until you are 45 degrees off the cone/car.
+3. Straighten the wheel and go back until you are a foot off the curb.
+4. Crank wheel to the left and slide into space and pay attention to the back cones.  (Make sure not to hit them and try to make your hood stright to the cones in front.)
 5. Evenly space yourself between the cones.
 
 [Parallel Parking and 90-Degree Backing Skill](https://www.youtube.com/watch?v=aSbVbTvTSFo)
@@ -372,6 +372,8 @@ This is a fantastic video on Parallel Parking and 90-degree back in.
 
 To park on a hill in Minnesota, you should turn your wheels away from the curb when parking uphill, and toward the curb when parking downhill. You should also use your emergency brake and avoid parking too close to other cars. 
 
+THE MOST IMPORTANT THING TO REMEMBER IN HILL PARKING:  UP and away from the curb everything else is right.
+
 - Uphill parking 
 Park your vehicle
 Turn your front wheels away from the curb to the left
@@ -383,7 +385,7 @@ Turn your front wheels toward the curb to the right
 Engage your emergency brake
 
 - If there's no curb 
-Turn your wheel toward the edge of the road before parking
+Turn your wheel toward the right before parking
 Set the parking brake
 
 [How to Park Uphill & Downhill :: Step-by-Step Instructions](https://www.youtube.com/watch?v=nUleYG96qnQ&t=726s)

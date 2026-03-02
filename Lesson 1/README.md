@@ -253,12 +253,14 @@ Tips for making a right turn:
  ## Proper Stopping and Distance
 
 Stop Signs and Stop Lights
-  1. Must come to complete stop.  
+  1. Must come to complete stop BEFORE the Sign, Big Fat Line or Crosswalk.  
   2. Passenger Needs to rest and settle in seat.  
   3. At that point Look to your left for cars and movement.  
   4. Then look to your Right for cars and movement
   5. And then to your left again checking one last time.
-  6. Go if everything is clear
+  6. Find the last car and GO if everything is clear.
+
+[Video on Stopping and right Turns](https://www.youtube.com/watch?v=cj72Rriu7yI)
 
 Stopping behind a car at the light or stop sign
 

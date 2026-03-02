@@ -1,5 +1,7 @@
 # Lesson 1 Basic Driving
 
+# [MN Driver's Manual](https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf)
+
 ### Things to achieve before Lesson 1 Behind the wheel
 
 In lesson one we will cover the basics of driving:

@@ -18,7 +18,7 @@ By Lesson 3 You should be able to do everything we covered in Lesson 1 and Lesso
 - You should understand unmarked 4 lane roads.
 - You should be stopping behind your lines/stop sign/crosswalk and waiting for 3 seconds and LOOKING FOR HAZARDS.
 - You should be using the correct lane for taking right turns. All the way over and hugging the curb.
-- You should not be cutting lanes on your left turns. That means getting out half way in intersection if no arrow and taking a 90 degree turn. [90 degree turns](https://www.youtube.com/watch?v=OKgEqufSTjU)
+- You should not be cutting lanes on your left turns. That means getting out half way in intersection if no arrow and taking a 90 degree turn. [90 degree turns](https://www.youtube.com/watch?v=cj72Rriu7yI)
 - You should be able to make a safe lane change using SMOG at different speeds.
 - You Should understand Blind spots.
 - You should not be asking to go over parking, that is your responsibility after lesson 1. (Unless we could not cover parking in the previous 2 lessons)
@@ -70,6 +70,7 @@ Be cautious at intersections:
 - When turning onto a new street, be extra vigilant to observe traffic patterns and signs, especially at intersections. 
 - When turning onto a new street look ahead to see which lane you are supposed to turn into.
 - Look for pedistrians and yeild to them at crosswalks.
+
 
 
 

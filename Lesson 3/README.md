@@ -12,7 +12,9 @@ By Lesson 3 You should be able to do everything we covered in Lesson 1 and Lesso
 
    If you follow these rules driving in downtowns will be easy because you will remain calm and will not get overwhelmed. When overwhelmed people have a tendency to speed up.
 
--You should understand and be reading the lines on the road.
+### Driving Habits You should have Down by now.
+
+- You should understand and be reading the lines on the road.
 - You should understand unmarked 4 lane roads.
 - You should be stopping behind your lines/stop sign/crosswalk and waiting for 3 seconds and LOOKING FOR HAZARDS.
 - You should be using the correct lane for taking right turns.
@@ -68,4 +70,5 @@ Be cautious at intersections:
 - When turning onto a new street, be extra vigilant to observe traffic patterns and signs, especially at intersections. 
 - When turning onto a new street look ahead to see which lane you are supposed to turn into.
 - Look for pedistrians and yeild to them at crosswalks.
+
 

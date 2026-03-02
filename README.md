@@ -3,6 +3,8 @@
  This is an extensive study guide written for people who are going to be taking the driving test.  This was written to prepare the person for the Minnesota road test. The links are to videos that will help assist you in learning driving.
 
 # [MN Driver's Manual](https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf)
+
+##[Sign Up for DMV Appointments](https://onlineservices.dps.mn.gov/EServices/_/)
  
 
  ## Things to do to prepare for your test.

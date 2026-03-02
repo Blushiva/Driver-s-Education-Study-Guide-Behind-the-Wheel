@@ -253,7 +253,7 @@ Tips for making a right turn:
  ## Proper Stopping and Distance
 
 Stop Signs and Stop Lights
-  1. Must come to complete stop BEFORE the Sign, Big Fat Line or Crosswalk.  
+  1. Must come to complete stop BEFORE the Sign, Big Fat Line or Crosswalk. Use the Bottom of windshield to underline Lines or Crosswalk.  
   2. Passenger Needs to rest and settle in seat.  
   3. At that point Look to your left for cars and movement.  
   4. Then look to your Right for cars and movement

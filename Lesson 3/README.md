@@ -1,7 +1,16 @@
 # Lesson 3 Downtown, One Ways and Rehash of Previous Lessons
 
-By Lesson 3 You should be able to do everything we covered in Lesson 1 and Lesson 2 and be a confident driver. You should understand all of the following bullet points and should have made them into a good driving habit. Please Review Lessons 1 and 2 if you don't understand something. Ask your instructor lots of questions.  You are responsible for your learning.  Help us help you.
-If you don't understand something we will review it.
+By Lesson 3 You should be able to do everything we covered in Lesson 1 and Lesson 2 and be a confident driver. You should understand all of the following bullet points and should have made them into good driving habits. Please Review Lessons 1 and 2 if you don't understand something. Ask your instructor lots of questions.  You are responsible for your learning.  Help us help you.  If you don't understand something we will review it.
+
+### 5 Rules to follow While Driving In Downtowns
+
+1. Read Your Signs On Every Street Corner
+2. Look Ahead and Check for Pedestrians and Bicycles Before Turning.
+3. Stay at or Under 25 MPH and Drive to Conditions on the Road.
+4. DO NOT BLOW YOUR LIGHT If it is turning yellow STOP!
+5. Look at the lane before you turn into it.
+
+   If you follow these rules driving in downtowns will be easy because you will remain calm and will not get overwhelmed. When overwhelmed people have a tendency to speed up.
 
 -You should understand and be reading the lines on the road.
 - You should understand unmarked 4 lane roads.
@@ -57,4 +66,6 @@ Always check for signs:
 
 Be cautious at intersections:
 - When turning onto a new street, be extra vigilant to observe traffic patterns and signs, especially at intersections. 
+- When turning onto a new street look ahead to see which lane you are supposed to turn into.
+- Look for pedistrians and yeild to them at crosswalks.
 

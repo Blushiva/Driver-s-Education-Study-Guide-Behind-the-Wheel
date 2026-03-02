@@ -260,7 +260,7 @@ Stop Signs and Stop Lights
   5. And then to your left again checking one last time.
   6. Find the last car and GO if everything is clear.
 
-[Video on Stopping and right Turns](https://www.youtube.com/watch?v=cj72Rriu7yI)
+[Video on Stopping Properly and Right Turns](https://www.youtube.com/watch?v=cj72Rriu7yI)
 
 Stopping behind a car at the light or stop sign
 
